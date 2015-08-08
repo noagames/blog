@@ -1,0 +1,14 @@
+# Site settings
+host: 178.62.124.33
+port: 9200
+title: NoaGames
+email: info@noagames.co
+description: > # this means to ignore newlines until "baseurl:"
+        NoaGames is an Entertainment startup.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://noagames.co" # the base hostname & protocol for your site
+twitter_username: noagames
+github_username:  noagames
+
+# Build settings
+markdown: kramdown
